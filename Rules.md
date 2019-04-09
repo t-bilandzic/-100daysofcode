@@ -13,6 +13,6 @@ April 9th, 20169.
 
 
 ## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
+* [Rules](https://github.com/t-bilandzic/-100daysofcode/blob/master/Rules.md)
+* [Log - click here to see my progress](https://github.com/t-bilandzic/-100daysofcode/blob/master/log.md)
+* [FAQ](https://github.com/t-bilandzic/-100daysofcode/blob/master/FAQ.md)
