@@ -4,7 +4,7 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-April 9th, 20169.
+April 10th, 20169.
 
 ## Additional Rules
 1. I will post on Instagram or Stories about my progress -> using the hashtag #100DaysOfCode
