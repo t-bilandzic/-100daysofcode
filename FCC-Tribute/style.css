@@ -1,0 +1,33 @@
+#main {
+  margin: 0px 120px;
+  padding: 0px;
+  background-color: #CCCDC8;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#title {
+  text-align: center;
+  font-size: 100px;
+  color: #DB222A;
+}
+
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+h2 {
+  text-align: center;
+  font-size: 40px;
+}
+
+p {
+  padding: 0px 120px;
+}
+
+#tribute-link {
+  font-size: 40px;
+  align: center;
+}
